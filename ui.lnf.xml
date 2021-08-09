@@ -1,0 +1,7 @@
+<application>
+  <component name="UISettings">
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="26" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
+</application>
